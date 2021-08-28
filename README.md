@@ -1,5 +1,5 @@
 # Cheatsheets
-Important Cheatsheets that are required for programming.
+Important cheatsheets that are required for programming.
 
 ### Cheatsheets available in this Repository
 1. Python 3
