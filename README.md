@@ -11,3 +11,4 @@ Important cheatsheets that are required for programming.
 7. Numpy Library
 8. Pandas Library
 9. Scipy Library
+10. Git commands
